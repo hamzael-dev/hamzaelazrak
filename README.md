@@ -2,16 +2,7 @@
 
 💻 Full Stack Developer (Laravel | React | Node.js)
 🚀 Passionate about building real-world web applications
-📍 Based in Morocco
-
----
-
-## 🧑‍💻 About Me
-
-* 🔭 Currently working on: **POS & Stock Management System**
-* 🌱 Learning more about: **Advanced Backend & System Design**
-* ⚡ Goal: Become a **Professional Full Stack Engineer**
-* 💬 Ask me about: Laravel, React, APIs, Databases
+📍 Based in Fez Morocco
 
 ---
 
@@ -30,39 +21,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 POS & Stock Management System
-
-* Laravel + Livewire
-* Manage products, sales, clients, and statistics
-* Dashboard with analytics
-
-### 📦 REST API (Express + MySQL)
-
-* MVC architecture
-* CRUD for products, categories, images
-* Built with Node.js & Express
-
-### 📱 Mobile App (React Native)
-
-* Local database (SQLite)
-* Simple UI & navigation
-
----
 
 ## 📫 Contact Me
 
-* 📧 Email: [your@email.com](mailto:your@email.com)
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+* 📧 Email: [hamzaelazrak8@gamil.com](mailto:hamzaelazrak8@gmail.com)
 
 ---
 
