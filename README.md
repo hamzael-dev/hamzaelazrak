@@ -4,7 +4,7 @@
 
 💻 Full Stack Developer
 🚀 Passionate about building real-world web applications
-📍 Based in Fez Morocco
+
   
 </div>
 
